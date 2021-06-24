@@ -208,7 +208,10 @@ void MainWindow::readPosition()
 
 }
 
+void MainWindow::on_pushButtonDiagram_clicked()
+{
 
+}
 
 void MainWindow::contextMenuEvent( QContextMenuEvent* e )
 {
